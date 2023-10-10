@@ -1,0 +1,37 @@
+[
+    {
+      "name": "Johnson",
+      "DOB": "1992-08-10",
+      "height": "5'6\"",
+      "city": "Amaravati",
+      "state": "Andhra Pradesh"
+    },
+    {
+      "name": "Smith",
+      "DOB": "1999-03-25",
+      "height": "5'10\"",
+      "city": "Chennai",
+      "state": "Tamil Nadu"
+    },
+    {
+      "name": "Eva Martinez",
+      "DOB": "1995-11-18",
+      "height": "5'4\"",
+      "city": "Bengaluru",
+      "state": "Karnataka"
+    },
+    {
+      "name": "David Wilson",
+      "DOB": "1990-06-03",
+      "height": "6'0\"",
+      "city": "Thiruvananthapuram",
+      "state": "Kerala"
+    },
+    {
+      "name": "Davis",
+      "DOB": "1987-09-15",
+      "height": "5'7\"",
+      "city": "Hyderabad",
+      "state": "Telangana"
+    }
+  ]
